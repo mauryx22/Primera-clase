@@ -1,0 +1,18 @@
+FTP
+Transmicion de archivos 
+Hosting barato normal--> /public_html/ <-- FTP
+	index.php
+	image
+	leonidas.jpg
+www.fukencio.com
+SISTEMAS DE CONTROL DE VERCIONES 
+
+SVN: Subercio/Mercurial/TFS/CVS/GIT
+Github
+1.red social de programadores
+2.webApps
+3.mucho mas facil
+===============================
+Repositorio de codigo github (master)
+1.multiples verciones del mu¡ismo codigo...
+
